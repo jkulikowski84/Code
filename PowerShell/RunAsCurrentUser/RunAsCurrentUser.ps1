@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 function executeAsLoggedOnUser ($Command,$Hidden=$true) {
     <#

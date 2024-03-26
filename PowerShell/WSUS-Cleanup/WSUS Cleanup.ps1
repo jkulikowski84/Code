@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #Change server name and port number and $True if it is on SSL
 $Computer = $env:COMPUTERNAME
