@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 $DaysInactive = 90
 

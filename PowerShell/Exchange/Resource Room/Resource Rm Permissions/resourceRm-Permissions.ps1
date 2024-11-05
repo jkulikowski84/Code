@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #Set-ExecutionPolicy RemoteSigned
 $userUPN = "365admin@domain.onmicrosoft.com" 

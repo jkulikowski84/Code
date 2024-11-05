@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 $OldPref = $global:ErrorActionPreference
 $global:ErrorActionPreference = 'Stop'

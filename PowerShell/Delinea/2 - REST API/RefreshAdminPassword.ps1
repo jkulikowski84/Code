@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #The admin account we want to get the password for
 $SearchFilter = "adminAccount"

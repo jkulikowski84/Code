@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 if((Get-Module -ListAvailable -Name "Thycotic.SecretServer") -or (Get-Module -Name "Thycotic.SecretServer"))
 {

@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 		
 #Global Variables
 $EmailFile = (Split-Path $script:MyInvocation.MyCommand.Path) + "\emails.txt"

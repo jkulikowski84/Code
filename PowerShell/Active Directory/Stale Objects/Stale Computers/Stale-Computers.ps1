@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 # Gets todays Date
 $date = Get-Date

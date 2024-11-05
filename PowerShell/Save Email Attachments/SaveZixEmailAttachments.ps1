@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #Path to where you want to save attachments from.
 $FolderPath = "\\user@domain.com\Inbox\Folder1\SubFolder1"

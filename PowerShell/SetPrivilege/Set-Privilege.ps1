@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 function Set-Privilege {
     [OutputType('System.Boolean')]

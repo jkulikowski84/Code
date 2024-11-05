@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #Type in the module name that you want to scan
 $ModuleName = "VMware.VimAutomation.Core"

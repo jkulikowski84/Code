@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #Get logged on users SID
 $usersid = (New-Object -ComObject Microsoft.DiskQuota).TranslateLogonNameToSID((Get-WmiObject -Class Win32_ComputerSystem).Username)

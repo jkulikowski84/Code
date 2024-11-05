@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 Add-Type -AssemblyName System.Windows.Forms -ErrorAction Stop
 

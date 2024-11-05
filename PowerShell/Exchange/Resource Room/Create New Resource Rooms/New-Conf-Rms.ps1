@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 		
 function Get-ModuleAD() 
 {

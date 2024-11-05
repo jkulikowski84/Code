@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 $Path = (Split-Path $script:MyInvocation.MyCommand.Path)
 

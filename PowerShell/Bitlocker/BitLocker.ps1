@@ -1,4 +1,4 @@
-﻿function Get-ModuleAD() 
+function Get-ModuleAD() 
 {
     #Add the import and snapin in order to perform AD functions
     #Get Primary DNS

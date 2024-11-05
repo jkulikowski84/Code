@@ -33,13 +33,13 @@ foreach($scansfolder in $ScansFolders.fullname)
         }
 
         #Once we are done moving the files to the root, delete the ErrorFolder
-        Remove-Item –path $ErrorFolder
+        Remove-Item â€“path $ErrorFolder
     }
 
     $GetThumbdbFile = (Get-ChildItem -Path $scansfolder -Force) | where {$_.name -eq "Thumbs.db"}
 
     foreach($ThumbdbFile in $GetThumbdbFile.fullName)
     {
-        Remove-Item –path $ThumbdbFile -Force
+        Remove-Item â€“path $ThumbdbFile -Force
     }
 }

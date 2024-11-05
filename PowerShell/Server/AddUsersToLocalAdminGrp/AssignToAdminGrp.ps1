@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 $CopyServer = "TWVS01SPKW0011"
 $NewServer = "TWVS01SPKA0012"
