@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #List the modules we want to load per line
 $LoadModules = @'
