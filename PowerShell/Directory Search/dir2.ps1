@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 # note: uses Get-Files function for comparision
 
 	function Get-Files 

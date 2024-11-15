@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #$directory = "\\nch_home\IT\Server Team\WindowsUpdates"
 $directory = "\\pwvs01ldps0001\Fileserver\Software"

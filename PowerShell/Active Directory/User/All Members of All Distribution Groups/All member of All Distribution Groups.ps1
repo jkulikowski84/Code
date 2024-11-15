@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 $DistributionGroups = Get-ADGroup -Filter {GroupCategory -eq "Distribution"}
 

@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 $DynamicGroup = "Nursing Excellence"
 

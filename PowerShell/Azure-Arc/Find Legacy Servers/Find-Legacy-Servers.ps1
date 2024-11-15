@@ -82,7 +82,7 @@ Function GetApp
         {
             Try
             {
-                $reg = [microsoft.win32.registrykey]::OpenRemoteBaseKey(‘Users’,"$Server")
+                $reg = [microsoft.win32.registrykey]::OpenRemoteBaseKey(ï¿½Usersï¿½,"$Server")
             }
             Catch
             {
@@ -93,7 +93,7 @@ Function GetApp
         {
             Try
             {
-                $reg = [microsoft.win32.registrykey]::OpenRemoteBaseKey(‘LocalMachine’,"$Server")
+                $reg = [microsoft.win32.registrykey]::OpenRemoteBaseKey(ï¿½LocalMachineï¿½,"$Server")
             }
             Catch
             {

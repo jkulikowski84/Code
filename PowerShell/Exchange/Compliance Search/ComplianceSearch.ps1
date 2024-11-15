@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #Setup our Attributes
 $date2 = "sent>={0:MM/dd/yyyy} AND" -f (get-date).AddMonths(-1)

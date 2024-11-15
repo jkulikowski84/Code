@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #Connect to Exchange server remotely if we're not already connected
 $SessionsRunning = get-pssession

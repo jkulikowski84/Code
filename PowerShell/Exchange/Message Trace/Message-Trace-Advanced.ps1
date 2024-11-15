@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #============ Do not edit below this line ===============================
 

@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #Get All Managers
 $Managers = (dsquery * -filter "(&(objectClass=person)(objectCategory=Person)(!(userAccountControl:1.2.840.113556.1.4.803:=2)))" -limit 0 -attr Manager | sort -Unique ).trim()

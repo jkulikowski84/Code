@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 Clear-Variable DSQUsers, AddUsersArray, RemoveUsersArray -force -Confirm:$False -ErrorAction SilentlyContinue
 

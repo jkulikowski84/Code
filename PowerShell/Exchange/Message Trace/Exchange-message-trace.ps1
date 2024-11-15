@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #Variables
 $Sender = "jholm1@domain.com"

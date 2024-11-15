@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 $properties = @('givenname', 'initials', 'mobile', 'telephonenumber', 'sn', 'displayname', 'company', 'title', 'mail', 'department', 'samaccountname')
 

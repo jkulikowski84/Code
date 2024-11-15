@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #Get all out connected sessions
 $SessionsRunning = get-pssession

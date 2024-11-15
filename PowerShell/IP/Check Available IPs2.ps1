@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #SRC: https://blog.idera.com/database-tools/final-super-fast-ping-command
 

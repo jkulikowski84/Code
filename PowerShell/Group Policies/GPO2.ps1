@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 $GPOs = Get-GPO -All
 $OutputFile = "C:\TEMP\GPOList.txt"

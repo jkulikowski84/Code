@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 $PrintServers = (dsquery * -filter "(&(objectClass=Computer)(objectCategory=Computer)(!(userAccountControl:1.2.840.113556.1.4.803:=2))(name=*EPMS*))" -limit 0 -attr Name | sort).trim()
 

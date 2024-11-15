@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 $HomeDrive = "\\CitrixProfiles\home$\$($env:username)"
 

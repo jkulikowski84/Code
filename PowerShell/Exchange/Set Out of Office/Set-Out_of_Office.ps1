@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #Variables
 $username = "user@domain.com"

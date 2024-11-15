@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #Get-GPResultantSetOfPolicy -ReportType XML -Path "C\temp\report.xml"
 

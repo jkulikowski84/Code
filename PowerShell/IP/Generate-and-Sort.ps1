@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 $RandomIPs = 1..254 | % { [IPAddress]::Parse([String] (Get-Random) ).IPAddressToString }
 

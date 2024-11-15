@@ -1,4 +1,4 @@
-﻿CLS
+CLS
 
 #SRC: https://github.com/proxb/AsyncFunctions/blob/master/Test-ConnectionAsync.ps1
 
